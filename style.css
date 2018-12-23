@@ -8,6 +8,13 @@ html,body{
   background-color: #343b47;
 }
 
+pre {
+
+  font-size: 1em;
+  font-family: 'Poppins',sans-serif;
+
+}
+
  #footer{
    display: table;
     text-align: center;
@@ -97,6 +104,13 @@ html,body{
   margin-top: .3rem;
   margin-bottom: .1rem;
 }
+
+.whatever hr{
+    border-top: 10px solid #000000;
+    width: 95%;
+    margin-top: .3rem;
+    margin-bottom: .1rem;
+    }
 .fa-code{
   color: #e54d26;
 }
